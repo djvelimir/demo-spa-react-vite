@@ -7,7 +7,7 @@ function HomeView() {
             <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">
               Pitchfork Kickstarter Taxidermy
             </h1>
-            <div className="h-1 w-20 bg-green-500 rounded"></div>
+            <div className="h-1 w-20 bg-green-500 rounded-sm"></div>
           </div>
           <p className="lg:w-1/2 w-full leading-relaxed text-gray-400 text-opacity-90">
             Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
@@ -20,7 +20,7 @@ function HomeView() {
           <div className="xl:w-1/4 md:w-1/2 p-4">
             <div className="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
               <img
-                className="h-40 rounded w-full object-cover object-center mb-6"
+                className="h-40 rounded-sm w-full object-cover object-center mb-6"
                 src="https://dummyimage.com/720x400"
                 alt="content"
               ></img>
@@ -39,7 +39,7 @@ function HomeView() {
           <div className="xl:w-1/4 md:w-1/2 p-4">
             <div className="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
               <img
-                className="h-40 rounded w-full object-cover object-center mb-6"
+                className="h-40 rounded-sm w-full object-cover object-center mb-6"
                 src="https://dummyimage.com/721x401"
                 alt="content"
               ></img>
@@ -58,7 +58,7 @@ function HomeView() {
           <div className="xl:w-1/4 md:w-1/2 p-4">
             <div className="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
               <img
-                className="h-40 rounded w-full object-cover object-center mb-6"
+                className="h-40 rounded-sm w-full object-cover object-center mb-6"
                 src="https://dummyimage.com/722x402"
                 alt="content"
               ></img>
@@ -77,7 +77,7 @@ function HomeView() {
           <div className="xl:w-1/4 md:w-1/2 p-4">
             <div className="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
               <img
-                className="h-40 rounded w-full object-cover object-center mb-6"
+                className="h-40 rounded-sm w-full object-cover object-center mb-6"
                 src="https://dummyimage.com/723x403"
                 alt="content"
               ></img>
